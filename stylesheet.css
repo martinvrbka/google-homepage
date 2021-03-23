@@ -47,6 +47,9 @@ html{
     top: 7.5px;
     border-radius: 5px;
 }
+#signin-div:hover{
+    background-color: #4484fa;
+}
 
 #signin-div p{
     position: relative;
